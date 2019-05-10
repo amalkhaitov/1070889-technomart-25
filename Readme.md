@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Амаль Хаитов]https://up.htmlacademy.ru/htmlcss/25/user/1070889.
-* Наставник: [Станислав Кузнецов]https://htmlacademy.ru/profile/id237925.
+* Студент: [Амаль Хаитов](https://up.htmlacademy.ru/htmlcss/25/user/1070889).
+* Наставник: [Станислав Кузнецов](https://htmlacademy.ru/profile/id237925).
 
 ---
 
